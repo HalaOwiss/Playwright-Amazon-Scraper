@@ -1,6 +1,6 @@
 # Amazon.de Playwright Mini-Challenge — “Harry Potter Buch”
 
-This repository contains a small **web automation** script built with **Python + Playwright** (no Selenium) that:
+This repository contains a small **web automation** script built with **Python + Playwright** that:
 
 - Opens **amazon.de**
 - Searches for **"Harry Potter Buch"**
